@@ -48,7 +48,7 @@ The training process was conducted on Google Colab, utilizing its GPU resources 
 
 The model achieved high accuracy in detecting ambulances, with excellent performance metrics across various confidence thresholds. Below is an F1-Confidence curve showing the model's performance:
 
-![F1-Confidence Curve](path/to/f1-confidence-curve.png)
+![F1-Confidence Curve](training_results/Ambulance/F1_curve.png)
 
 
 ## Future Work
